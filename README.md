@@ -29,9 +29,4 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           <br/></div>
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=premierbell&bg_color=180,97e7cd,00000000&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premierbell&layout=compact&bg_color=180,97e7cd,00000000&title_color=000000&text_color=000000"
-           /> </div> 
-    </div>
     
