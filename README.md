@@ -29,8 +29,13 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
       <br/></div>
 </div>
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Problem Solving </h2> <br> 
-    [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=pjw319)](https://solved.ac/pjw319)
+<div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
+    Problem Solving
+  </h2>
+  <br>
+  <a href="https://solved.ac/pjw319">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=pjw319" />
+  </a>
 </div>
     
